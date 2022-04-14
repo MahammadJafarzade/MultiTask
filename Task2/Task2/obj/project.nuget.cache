@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9a6z/HEIHJVgZ9X6PJx8mwxv742wJ0tuuq1OiEhOCTzOjhmh3UsP+KfRPT4g3xMVSzVKtOWKEEThxKHvBRWMeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Orkhan\\OneDrive\\Desktop\\MultiTasking\\Task2\\Task2\\Task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orkhan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
